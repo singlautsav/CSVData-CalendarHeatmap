@@ -7,14 +7,19 @@ This project is a React application that displays a calendar heatmap using CSV d
 To run this project locally, make sure you have [Node.js](https://nodejs.org/) installed. Then, follow these steps:
 
 1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/singlautsav/CSVData-CalendarHeatmap.git ```
-   
+    ```shell
+    git clone https://github.com/singlautsav/CSVData-CalendarHeatmap.git ```
+ 
 2. Navigate to the project directory:
-   ```shell
-   cd CSVData-CalendarHeatmap ```
+    ```shell
+    cd CSVData-CalendarHeatmap ```
+    
 4. Install the dependencies
-  ```shell
-   npm install ```
-6. Start the development Server
+    ```shell
+    npm install```
+   
+5. Start the development Server
+    ```shell
+    npm start```
+
+6. Open your browser and visit http://localhost:3000 to view the application.
