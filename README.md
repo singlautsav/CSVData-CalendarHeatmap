@@ -1,6 +1,20 @@
-# Calendar heatmap using CSV Data
+# Calendar Heatmap
 
-Show your CSV datatime formatted data in a Calendar Heatmap. Similar to that of Github Heatmap.
+This project is a React application that displays a calendar heatmap using CSV data. It provides features like uploading CSV files, viewing the updated data, and storing the data.
 
+## Installation
 
-![Screenshot 2023-05-13 at 7 12 00 PM](https://github.com/singlautsav/CSVData-CalendarHeatmap/assets/43605886/068a9036-e626-4e78-9b4b-ad2a765ad185)
+To run this project locally, make sure you have [Node.js](https://nodejs.org/) installed. Then, follow these steps:
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/singlautsav/CSVData-CalendarHeatmap.git ```
+   
+2. Navigate to the project directory:
+   ```shell
+   cd CSVData-CalendarHeatmap ```
+4. Install the dependencies
+  ```shell
+   npm install ```
+6. Start the development Server
